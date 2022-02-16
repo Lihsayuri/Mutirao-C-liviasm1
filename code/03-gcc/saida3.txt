@@ -1,0 +1,5 @@
+Digite o primeiro número: Digite o segundo número:  10 é múltiplo de 5
+Digite o primeiro número: Digite o segundo número:  8 é múltiplo de 4
+Digite o primeiro número: Digite o segundo número:  0 é múltiplo de 9
+Digite o primeiro número: Digite o segundo número: Erro!
+Digite o primeiro número: Digite o segundo número: Xii, os dois números são 0!
