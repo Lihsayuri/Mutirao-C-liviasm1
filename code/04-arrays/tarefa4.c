@@ -8,6 +8,18 @@
 
 /* TODO: implemente sua função conta_1 aqui */
 
+int conta_1(char str[]){
+    int conta = 0;
+    for (int i = 0; i < 100; i++){
+        if (str[i] != '\0' && str[i] == '1'){
+            conta += 1;
+        } else if (str[i] == '\0'){
+            break;
+        }
+    }
+
+    return conta;
+}
 
 int main() {
     
